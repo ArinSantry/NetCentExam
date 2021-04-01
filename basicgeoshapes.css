@@ -1,0 +1,152 @@
+/*Styles for main page*/
+#index
+{
+	background-color: purple;
+}
+
+#image-map
+{
+	border:10px solid;
+	border-left-color: green;
+	border-top-color: blue;
+	border-right-color: pink;
+	border-bottom-color: red;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#map-caption
+{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-family: "Comic Sans MS", "Helvetica", "Trebuchet";
+	font-size: 2em;
+	font-style: normal;
+	color: red;
+}
+
+/*This will be used for every shape page*/
+#list
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+/*Style for circle page*/
+#circle-header
+{
+	color: blue;
+	text-align: center;
+}
+
+#circle-page
+{
+	background-color: orange;
+	font-size: 1.5em;
+}
+
+/*Style for triangle page*/
+#triangle-page
+{
+	background-color: red;
+	font-size: 1.5em;
+}
+
+#triangle-header
+{
+	color: green;
+	text-align: center;
+}
+
+/*Style for rectangle page*/
+#rectangle-page
+{
+	background-color: skyblue;
+	font-size: 1.5em;
+}
+
+#rectangle-header
+{
+	color: orange;
+	text-align: center;
+}
+
+/*Style for pentagon page*/
+#pentagon-page
+{
+	background-color: pink;
+	font-size: 1.5em;
+}
+
+#pentagon-header
+{
+	color: blue;
+	text-align: center;
+}
+
+/*Style for diamond page*/
+#diamond-page
+{
+	background-color: blue;
+	font-size: 1.5em;
+}
+
+#diamond-header
+{
+	color: red;
+	text-align: center;
+}
+
+/*Style for hexagon page*/
+#hexagon-page
+{
+	background-color: purple;
+	font-size: 1.5em;
+}
+
+#hexagon-header
+{
+	color: orange;
+	text-align: center;
+}
+
+/*Style for trapezium page*/
+#trapezium-page
+{
+	background-color: chocolate;
+	font-size: 1.5em;
+}
+
+#trapezium-header
+{
+	color: pink;
+	text-align: center;
+}
+
+/*Style for star page*/
+#star-page
+{
+	background-color: gold;
+	font-size: 1.5em;
+}
+
+#star-header
+{
+	color: purple;
+	text-align: center;
+}
+
+/*Style for square page*/
+#square-page
+{
+	background-color: green;
+	font-size: 1.5em;
+}
+
+#square-header
+{
+	color: orange;
+	text-align: center;
+}
